@@ -8,7 +8,7 @@ Download the file, unzip it, then double click on index.html
 * Clone the repo {git clone https://github.com/AbdiqafarHashi1/LaasPizza}
 
 Here is the project's Link 
-https://hashidelanistudio.netlify.app/
+https://laascoffee.netlify.app/
 ## Known Bugs
 Some Fonts may not work on some computers, other than that it should work fine.
 ## Technologies Used
@@ -16,7 +16,6 @@ Some Fonts may not work on some computers, other than that it should work fine.
 HTML 
 CSS
 Javascript 
-Bootstrap
 ### License
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} 

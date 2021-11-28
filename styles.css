@@ -166,3 +166,30 @@ html, body {
 .btn-primary:hover {
     background-color: #2D9CDB;
 }
+
+.shop-item {
+    margin: 30px;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.shop-item-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-image {
+    height: 250px;
+}
+
+.shop-item-details {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
